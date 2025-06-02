@@ -57,4 +57,3 @@ I'm a Software Engineering student at Northern Arizona University (Dec 2024) wit
 
 ---
 
-![Jennie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEN5812&show_icons=true&theme=default)
