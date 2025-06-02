@@ -11,15 +11,15 @@ I'm a Software Engineering student at Northern Arizona University (Dec 2024) wit
 - Uses recursive depth-first search with prefix pruning to find valid words.
 - Optimized for speed (944 words in 0.003s) with dynamic move tracking.
 
-### 🌐 HydroCams Website
+### 🌐 [HydroCams Website](https://github.com/HydroCams-Team/HydroCams-Website)
 - Built responsive UI for a water monitoring system using HTML/CSS/JS.
 - Part of a year-long senior capstone project with an interdisciplinary team.
 
-### 🍕 Fast Pizza Co (React App)
+### 🍕 [Fast Pizza Co](https://github.com/JEN5812/Fast_Pizza_Co_Project)
 - Created a dynamic online menu with React.
 - Integrated JavaScript-based business hour logic and real-time UI updates.
 
-### 🛫 Airline SQL Project
+### 🛫 [Airline SQL Project](https://github.com/JEN5812/Airline_Management)
 - Designed a normalized relational database with advanced SQL queries.
 - Simulated airline operations including flights, pilots, and earnings.
 
