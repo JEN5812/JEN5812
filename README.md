@@ -7,8 +7,7 @@ I'm a Software Engineering student at Northern Arizona University (Dec 2024) wit
 ## 🔧 What I’ve Been Working On
 
 ### 🧠 [AI-Powered Boggle Solver](https://github.com/JEN5812/Boggle_Project)
-- A Python-based solver for the classic Boggle word game.
-- Uses recursive depth-first search with prefix pruning to find valid words.
+- Developed an AI-powered Boggle solver that autonomously navigates the board using a depth-first search (DFS) algorithm enhanced with heuristic pruning techniques. 
 - Optimized for speed (944 words in 0.003s) with dynamic move tracking.
 
 ### 🌐 [HydroCams Website](https://github.com/HydroCams-Team/HydroCams-Website)
