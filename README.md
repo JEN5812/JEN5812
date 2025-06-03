@@ -6,7 +6,7 @@ I'm a Software Engineering student at Northern Arizona University (Dec 2024) wit
 
 ## 🔧 What I’ve Been Working On
 
-### 🧠 [Boggle Solver](https://github.com/JEN5812/Boggle_Project)
+### 🧠 [AI-Powered Boggle Solver](https://github.com/JEN5812/Boggle_Project)
 - A Python-based solver for the classic Boggle word game.
 - Uses recursive depth-first search with prefix pruning to find valid words.
 - Optimized for speed (944 words in 0.003s) with dynamic move tracking.
