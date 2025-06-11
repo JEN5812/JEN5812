@@ -6,13 +6,13 @@ I'm a Software Engineering student at Northern Arizona University (Dec 2024) wit
 
 ## 🔧 What I’ve Been Working On
 
-### 🧠 [AI-Powered Boggle Solver](https://github.com/JEN5812/Boggle_Project)
-- Developed an AI-powered Boggle solver that autonomously navigates the board using a depth-first search (DFS) algorithm enhanced with heuristic pruning techniques. 
-- Optimized for speed (944 words in 0.003s) with dynamic move tracking.
-
 ### 🌐 [HydroCams Website](https://github.com/HydroCams-Team/HydroCams-Website)
 - Built responsive UI for a water monitoring system using HTML/CSS/JS.
 - Part of a year-long senior capstone project with an interdisciplinary team.
+
+### 🧠 [AI-Powered Boggle Solver](https://github.com/JEN5812/Boggle_Project)
+- Developed an AI-powered Boggle solver that autonomously navigates the board using a depth-first search (DFS) algorithm enhanced with heuristic pruning techniques. 
+- Optimized for speed (944 words in 0.003s) with dynamic move tracking.
 
 ### 🍕 [Fast Pizza Co](https://github.com/JEN5812/Fast_Pizza_Co_Project)
 - Created a dynamic online menu with React.
