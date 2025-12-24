@@ -7,6 +7,8 @@ I'm a Software Engineering graduate focused on building responsive, user-friendl
 
 
 🌱 Currently improving my frontend portfolio and UI skills
+
+
 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jenniebutch/)
